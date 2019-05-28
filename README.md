@@ -11,11 +11,11 @@ There are 5 classes of ships to be detected which are as follows:
 
 Dataset Description
 There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows -
-{'Cargo': 1, 
-'Military': 2, 
-'Carrier': 3, 
-'Cruise': 4, 
-'Tankers': 5}
+#'Cargo': 1, 
+#'Military': 2, 
+#'Carrier': 3, 
+#'Cruise': 4, 
+#'Tankers': 5}
 There are three files provided to you, viz train.zip, test.csv and sample_submission.csv which have the following structure.
 
 | Variable | Definition |
