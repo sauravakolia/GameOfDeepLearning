@@ -17,12 +17,11 @@ There are 6252 images in train and 2680 images in test data. The categories of s
 'Cruise': 4, 
 'Tankers': 5}
 There are three files provided to you, viz train.zip, test.csv and sample_submission.csv which have the following structure.
+
 | Variable | Definition |
 | --- | --- |
 | `image` |Name of the image in the dataset (ID column) |
 | `category` | Ship category code|
-Variable	Definition
-image	Name of the image in the dataset (ID column)
-category	Ship category code  
+
 train.zip contains the images corresponding to both train and test set along with the true labels for train set images in train.csv
  
