@@ -10,7 +10,8 @@ There are 5 classes of ships to be detected which are as follows:
 ![alt text](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/05/Screenshot-2019-05-23-at-2.54.19-PM.png)
 
 Dataset Description
-There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows -
+There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows 
+
 #'Cargo': 1 
 #'Military': 2 
 #'Carrier': 3 
