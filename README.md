@@ -8,3 +8,21 @@ Keeping this in mind, a Governmental Maritime and Coastguard Agency is planning 
 
 There are 5 classes of ships to be detected which are as follows:
 ![alt text](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/05/Screenshot-2019-05-23-at-2.54.19-PM.png)
+
+Dataset Description
+There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows -
+{'Cargo': 1, 
+'Military': 2, 
+'Carrier': 3, 
+'Cruise': 4, 
+'Tankers': 5}
+There are three files provided to you, viz train.zip, test.csv and sample_submission.csv which have the following structure.
+| Variable | Definition |
+| --- | --- |
+| `image` |Name of the image in the dataset (ID column) |
+| `category` | Ship category code|
+Variable	Definition
+image	Name of the image in the dataset (ID column)
+category	Ship category code  
+train.zip contains the images corresponding to both train and test set along with the true labels for train set images in train.csv
+ 
