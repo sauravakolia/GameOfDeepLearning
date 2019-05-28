@@ -25,3 +25,11 @@ There are three files provided to you, viz train.zip, test.csv and sample_submis
 
 train.zip contains the images corresponding to both train and test set along with the true labels for train set images in train.csv
  
+Evaluation Metric
+The Evaluation metric is accuracy.
+
+Python 3.6 libraries
+fastai==1.0.50.post1
+torch==1.0.1.post2
+torchvision==0.2.2
+pretrainedmodels
